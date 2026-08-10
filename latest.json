@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0",
+  "notes": "Atualização 0.3.0 do Fila.",
+  "pub_date": "2026-08-10T00:36:12Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNE1ENDl2NmVvOFduVUlwWUVyQStRa3ZQbzArWERkN0xpa0JEd0ZKc1BaMTBQT3VZbGZ0SjdIMFlVbDFpWStLQ0lPdXAyQjFXYUphOWpYRVlkZi9OeVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzIxODEwCWZpbGU6RmlsYV8wLjMuMF94NjQtc2V0dXAuZXhlCjFuWUFTeVlaM2R0dDdFdFc1NWJCRVlSV0VyeklxdEdPV3FrSVhaTUwzR2tTczFVTzdueTJUbzVLM2xtTDBGbGdRU1N5Y1grUldUU1lsMXZIUVVnVEFBPT0K",
+      "url": "https://staackyz.github.io/fila-releases/Fila-Setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNE1ENDl2NmVvOFduVUlwWUVyQStRa3ZQbzArWERkN0xpa0JEd0ZKc1BaMTBQT3VZbGZ0SjdIMFlVbDFpWStLQ0lPdXAyQjFXYUphOWpYRVlkZi9OeVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzIxODEwCWZpbGU6RmlsYV8wLjMuMF94NjQtc2V0dXAuZXhlCjFuWUFTeVlaM2R0dDdFdFc1NWJCRVlSV0VyeklxdEdPV3FrSVhaTUwzR2tTczFVTzdueTJUbzVLM2xtTDBGbGdRU1N5Y1grUldUU1lsMXZIUVVnVEFBPT0K",
+      "url": "https://staackyz.github.io/fila-releases/Fila-Setup.exe"
+    }
+  }
+}
