@@ -1,14 +1,14 @@
 {
-  "version": "0.9.0",
-  "notes": "{\"criticality\":\"recommended\",\"maxDelayMinutes\":30,\"changes\":[\"Tarefas, recorrências, sprints, âncoras e blocos agora vivem no mesmo espaço de trabalho.\",\"A pesquisa, os filtros e a criação permanecem no mesmo lugar ao trocar a visualização.\",\"Cada visualização mostra somente os detalhes necessários, sem duplicar cadastros e regras.\",\"Blocos podem liberar todas as tarefas, uma pasta com suas subpastas ou tarefas escolhidas.\",\"Um bloco também pode proteger totalmente o período quando nada deve ser executado.\",\"Tarefas permitidas continuam rodando ao entrar em um bloco, sem reiniciar o cronômetro.\",\"Tarefas incompatíveis são pausadas com o tempo e o histórico preservados.\",\"Blocos antigos de lazer e sono continuam funcionando como períodos protegidos.\"]}",
-  "pub_date": "2026-08-10T20:01:39Z",
+  "version": "0.9.1",
+  "notes": "{\"criticality\":\"recommended\",\"maxDelayMinutes\":30,\"changes\":[\"O Staackyz One agora mantém uma única instância aberta por vez.\",\"Abrir o aplicativo novamente traz a janela existente para frente sem duplicar o controle de tempo.\",\"Fechar a janela principal envia o aplicativo direto para a bandeja, sem deixá-lo minimizado na barra.\",\"O controle de tempo compacto sempre oferece a ação de expandir novamente.\",\"Ações das notificações continuam chegando à instância que já está em execução.\"]}",
+  "pub_date": "2026-08-10T20:42:43Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEpkNktLYWxWSHFtZmFSc0toTEFWK2wrWklMOW82V01KYVlRdnZMNXc4bWxXTU1hcGw2c3h3S2lOeG90RURyMTU0NmsvQmhwcTVZZ0VDallVRGNjNXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkyMDkwCWZpbGU6U3RhYWNreXogT25lXzAuOS4wX3g2NC1zZXR1cC5leGUKWTYvQUozRk5XRVh1N08xTVBvTElWOS9FakhHK012MVltU0pwWmJFN3M5SEM0dGpOd1BOV0V6M1JyVUNybjVwNHI0OFowVTNyanFkVTZURnFjNGxkRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEdwVjBlbVNzNnNSUGNpQ210VVNEdi9SNHIrcjdKMFBUaWVnc3pKUDVmNXRPcDJrWWRoRjYySk95aFloM1k2Y1Y4VkpoM2ZwZFhCQ1NkMXZZRWh3UkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk0NTUxCWZpbGU6U3RhYWNreXogT25lXzAuOS4xX3g2NC1zZXR1cC5leGUKa1ZpUXRxYlNhQTZOVHhJYWtmNkE0cGVvRE9zRFdiMW5saDBKa2dTZFp4YjU4Um5ZZlkwcGxUNEl0VnVURHl5QWttYlRwaEIrMjh1VHVWcnVpRnM3Qnc9PQo=",
       "url": "https://staackyz.github.io/staackyz-one-install/Staackyz-One-Setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEpkNktLYWxWSHFtZmFSc0toTEFWK2wrWklMOW82V01KYVlRdnZMNXc4bWxXTU1hcGw2c3h3S2lOeG90RURyMTU0NmsvQmhwcTVZZ0VDallVRGNjNXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkyMDkwCWZpbGU6U3RhYWNreXogT25lXzAuOS4wX3g2NC1zZXR1cC5leGUKWTYvQUozRk5XRVh1N08xTVBvTElWOS9FakhHK012MVltU0pwWmJFN3M5SEM0dGpOd1BOV0V6M1JyVUNybjVwNHI0OFowVTNyanFkVTZURnFjNGxkRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEdwVjBlbVNzNnNSUGNpQ210VVNEdi9SNHIrcjdKMFBUaWVnc3pKUDVmNXRPcDJrWWRoRjYySk95aFloM1k2Y1Y4VkpoM2ZwZFhCQ1NkMXZZRWh3UkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2Mzk0NTUxCWZpbGU6U3RhYWNreXogT25lXzAuOS4xX3g2NC1zZXR1cC5leGUKa1ZpUXRxYlNhQTZOVHhJYWtmNkE0cGVvRE9zRFdiMW5saDBKa2dTZFp4YjU4Um5ZZlkwcGxUNEl0VnVURHl5QWttYlRwaEIrMjh1VHVWcnVpRnM3Qnc9PQo=",
       "url": "https://staackyz.github.io/staackyz-one-install/Staackyz-One-Setup.exe"
     }
   }

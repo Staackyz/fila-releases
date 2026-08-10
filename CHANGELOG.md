@@ -2,6 +2,14 @@
 
 Este arquivo mostra apenas mudanças perceptíveis para quem usa o Staackyz One.
 
+## [0.9.1] - 2026-08-10
+
+- O Staackyz One agora mantém uma única instância aberta por vez.
+- Abrir o aplicativo novamente traz a janela existente para frente sem duplicar o controle de tempo.
+- Fechar a janela principal envia o aplicativo direto para a bandeja, sem deixá-lo minimizado na barra.
+- O controle de tempo compacto sempre oferece a ação de expandir novamente.
+- Ações das notificações continuam chegando à instância que já está em execução.
+
 ## [0.9.0] - 2026-08-10
 
 - Tarefas, recorrências, sprints, âncoras e blocos agora vivem no mesmo espaço de trabalho.
