@@ -1,14 +1,14 @@
 {
-  "version": "0.4.0",
-  "notes": "Atualização 0.4.0 do Staackyz One.",
-  "pub_date": "2026-08-10T03:27:11Z",
+  "version": "0.5.0",
+  "notes": "Atualização 0.5.0 do Staackyz One.",
+  "pub_date": "2026-08-10T04:05:29Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEhhdm8vYk8zczZpNzdaZ1lVWGlJUCtHSjMrM2xvYllXbmRSMTFtZHkydjJsUHcxV1JtWDQxMTl6VHBGVTRxQnpEQTJDOWJqbXpxaTA3T3V6d3lhaWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzMwNzIzCWZpbGU6U3RhYWNreXogT25lXzAuNC4wX3g2NC1zZXR1cC5leGUKdzBQOE96aHVOOElXNnVyTTFucTNlQ3pxZ0NPdWtpM08wZHNySEtIMmE1RFc1VUdDSFFDNS85cGc3dE83S1dvQkczc21jRnhIQW1NY2xETERQeCt0Q3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEJYS0I1RWJuMGdVd0xGbDlwcGhVTnVyZ000czlmUVBKRCtyQXhyMUVYOVBLWUtxdmcvM2prdUlWNHl2dXh2NFh0d1VVOW05RkhTRGc4SUs2d2JqUndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzM0NzE0CWZpbGU6U3RhYWNreXogT25lXzAuNS4wX3g2NC1zZXR1cC5leGUKR014VGpFemxJMUhwZFNUeU0xQ3NXcXZZdXc5QWVuZkdFelZKNlFKZmhnTk05ZTljVVVnYWdBa3p4Zzg3S3Y5dmdhRWVMMXA2RnZLV3c4NU94RDJPQUE9PQo=",
       "url": "https://staackyz.github.io/staackyz-one-install/Staackyz-One-Setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEhhdm8vYk8zczZpNzdaZ1lVWGlJUCtHSjMrM2xvYllXbmRSMTFtZHkydjJsUHcxV1JtWDQxMTl6VHBGVTRxQnpEQTJDOWJqbXpxaTA3T3V6d3lhaWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzMwNzIzCWZpbGU6U3RhYWNreXogT25lXzAuNC4wX3g2NC1zZXR1cC5leGUKdzBQOE96aHVOOElXNnVyTTFucTNlQ3pxZ0NPdWtpM08wZHNySEtIMmE1RFc1VUdDSFFDNS85cGc3dE83S1dvQkczc21jRnhIQW1NY2xETERQeCt0Q3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEJYS0I1RWJuMGdVd0xGbDlwcGhVTnVyZ000czlmUVBKRCtyQXhyMUVYOVBLWUtxdmcvM2prdUlWNHl2dXh2NFh0d1VVOW05RkhTRGc4SUs2d2JqUndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzM0NzE0CWZpbGU6U3RhYWNreXogT25lXzAuNS4wX3g2NC1zZXR1cC5leGUKR014VGpFemxJMUhwZFNUeU0xQ3NXcXZZdXc5QWVuZkdFelZKNlFKZmhnTk05ZTljVVVnYWdBa3p4Zzg3S3Y5dmdhRWVMMXA2RnZLV3c4NU94RDJPQUE9PQo=",
       "url": "https://staackyz.github.io/staackyz-one-install/Staackyz-One-Setup.exe"
     }
   }
