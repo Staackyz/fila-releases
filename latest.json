@@ -1,0 +1,15 @@
+{
+  "version": "0.3.1",
+  "notes": "Atualização 0.3.1 do Fila.",
+  "pub_date": "2026-08-10T02:25:49Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEhxSHBuUHg4S0VXVTk4VEc4dEM1VlFxWE5XZ0pTd2tqNGJuQWE3N0tMcjhQOUFEb1FVelFNOTJUSmdEbHhBWHUzMy83Y1JRdDdtbW51UmxoRnFERFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI4NzQzCWZpbGU6RmlsYV8wLjMuMV94NjQtc2V0dXAuZXhlCnVINHBZVjdkWkJuSnRpRlZjcDQ1d09Qc3VrV0d2Q2VjcklMY1U1cXZWcDF0Z0xrQ2ZIR3lwN3RrYkNtazNhQkZHTFBycm5UbFZFeHl3cndXMXExVEFnPT0K",
+      "url": "https://staackyz.github.io/fila-install/Fila-Setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUT1pMdTRHVEMwNEhxSHBuUHg4S0VXVTk4VEc4dEM1VlFxWE5XZ0pTd2tqNGJuQWE3N0tMcjhQOUFEb1FVelFNOTJUSmdEbHhBWHUzMy83Y1JRdDdtbW51UmxoRnFERFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzI4NzQzCWZpbGU6RmlsYV8wLjMuMV94NjQtc2V0dXAuZXhlCnVINHBZVjdkWkJuSnRpRlZjcDQ1d09Qc3VrV0d2Q2VjcklMY1U1cXZWcDF0Z0xrQ2ZIR3lwN3RrYkNtazNhQkZHTFBycm5UbFZFeHl3cndXMXExVEFnPT0K",
+      "url": "https://staackyz.github.io/fila-install/Fila-Setup.exe"
+    }
+  }
+}
